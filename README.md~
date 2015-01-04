@@ -2,18 +2,15 @@ Fatechat-Client
 ===============
 
 O que é o Fatechat ?
-	
 	- Fatechat é um software que permite que pessoas em uma mesma rede possam trocar mensagens independentemente de plataforma utilizada.
 
 
 Pré-requisitos
-	
 	- Java 1.8 instalado.
 	- Servidor Fatechat rodando em alguma máquina de possível acesso.
 
 
 Restrições
-	
 	- Um endereço ip não pode possuir duas instancias do Fatechat.
 
 	
